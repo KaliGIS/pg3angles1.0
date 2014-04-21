@@ -1,0 +1,5 @@
+# pg3angles extension
+comment = 'Funkcie rozsirujuce PostreSQL a PostGIS pracu s datovym typom TRIANGLE'
+default_version = '0.1'
+module_pathname = '$libdir/TIN_functions'
+relocatable = true
